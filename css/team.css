@@ -298,6 +298,7 @@ nav ul li.btn.hide i:before {
   background-color: #4c4d52;
   padding-bottom: 50px;
   z-index: 2;
+  margin-top: 50px;
 }
 .TeamHeadingBg {
   text-align: center;
