@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 * {
   margin: 0px;
@@ -358,21 +359,23 @@ footer ul {
   height: 180px;
   margin-left: 21.5%;
   margin-top: 710px;
-  font-family: "Roboto-Bold", sans-serif;
+  font-family: 'Lato', sans-serif;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 800;
   font-size: 64px;
   line-height: 75px;
-  color: #000000;
+  color: #ffffff;
 }
 .AboutPodcast p {
-  font-family: "Roboto-Bold", sans-serif;
+  font-family: 'Lato', sans-serif;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 600;
+  letter-spacing: 2px;
   font-size: 20px;
   line-height: 20px;
   margin-top: 10px;
   margin-right: 130px;
+  text-align: justify;
 }
 .latestep {
   position: absolute;
