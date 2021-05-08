@@ -736,7 +736,7 @@ footer ul {
   .abrect1 {
     position: absolute;
     width: 80%;
-    height: 25%;
+    height: 30%;
     left: 12%;
     top: 356px;
     background: #faab4f;
@@ -745,7 +745,7 @@ footer ul {
   .abrect2 {
     position: absolute;
     width: 80%;
-    height: 25%;
+    height: 30%;
     left: 7%;
     top: 377.29px;
     background: #1c6b97;
@@ -753,7 +753,7 @@ footer ul {
   }
   .abtext {
     position: absolute;
-    width: 280px;
+    width: 75%;
     height: 150px;
     left: 9%;
     top: 56%;
@@ -817,7 +817,7 @@ footer ul {
   .everect1 {
     position: absolute;
     width: 80%;
-    height: 25%;
+    height: 27%;
     left: 7%;
     top: 77px;
     background: #faab4f;
@@ -826,7 +826,7 @@ footer ul {
   .everect2 {
     position: absolute;
     width: 80%;
-    height: 25%;
+    height: 27%;
     left: 12%;
     top: 98.28px;
     background: #2e2f36;
@@ -834,7 +834,7 @@ footer ul {
   }
   .evetext {
     position: absolute;
-    width: 260px;
+    width: 72%;
     height: 150px;
     left: 16%;
     top: 115px;
