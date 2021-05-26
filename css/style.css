@@ -211,7 +211,7 @@ nav ul li.btn.hide i:before {
   width: 482px;
   height: 340px;
   top: 197px;
-  left: 947px;
+  left: 60vw;
   background: #faab4f;
   border-radius: 33px;
   z-index: 2;
@@ -220,7 +220,7 @@ nav ul li.btn.hide i:before {
   position: absolute;
   width: 482px;
   height: 340px;
-  left: 919px;
+  left: 58vw;
   background: #1c6b97;
   border-radius: 33px;
   top: 225px;
@@ -230,7 +230,7 @@ nav ul li.btn.hide i:before {
   position: absolute;
   width: 415px;
   height: 215px;
-  left: 938px;
+  left: 60vw;
   top: 260px;
   font-family: Lato;
   font-style: normal;
@@ -264,7 +264,7 @@ nav ul li.btn.hide i:before {
   position: absolute;
   width: 455.1px;
   height: 440.82px;
-  left: 1060px;
+  left: 64vw;
   top: 24.49px;
   background: rgba(226, 53, 105, 0.1);
   border-radius: 50%;
