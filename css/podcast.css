@@ -199,7 +199,7 @@ nav ul li.btn.hide i:before {
     text-align: justify;
 }
 
-.LatestEpisode1 {
+.LatestEpisode_Bg {
     margin-top: 220px;
     position: absolute;
     height: 165.55px;
@@ -211,7 +211,7 @@ nav ul li.btn.hide i:before {
     color: rgba(68, 79, 89, 0.76);
 }
 
-.LatestEpisode2 {
+.LatestEpisode_Fr {
     position: absolute;
     margin-top: 300px;
     position: absolute;
@@ -247,7 +247,7 @@ nav ul li.btn.hide i:before {
     color: #aacff4;
 }
 
-.PastEpisodes1 {
+.PastEpisodes_Bg {
     margin-top: 1250px;
     position: absolute;
     height: 165.55px;
@@ -259,7 +259,7 @@ nav ul li.btn.hide i:before {
     color: rgba(106, 153, 201, 0.2);
 }
 
-.PastEpisodes2 {
+.PastEpisodes_Fr {
     position: absolute;
     margin-top: 1320px;
     position: absolute;
@@ -421,14 +421,14 @@ footer ul {
     .AboutPodcast p {
         margin-right: 15px;
     }
-    .LatestEpisode1 {
+    .LatestEpisode_Bg {
         top: 70px;
         font-weight: 900;
         font-size: 48px;
         line-height: 56px;
         margin-top: 1035px;
     }
-    .LatestEpisode2 {
+    .LatestEpisode_Fr {
         left: 20px;
         font-weight: 900;
         font-size: 28px;
@@ -444,13 +444,13 @@ footer ul {
         font-size: 30px;
         margin-top: 650px;
     }
-    .PastEpisodes1 {
+    .PastEpisodes_Bg {
         top: 300px;
         font-weight: 900;
         font-size: 48px;
         line-height: 56px;
     }
-    .PastEpisodes2 {
+    .PastEpisodes_Fr {
         top: 250px;
         left: 20px;
         font-weight: 900;
