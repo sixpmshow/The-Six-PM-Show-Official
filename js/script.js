@@ -6,6 +6,14 @@ $(document).ready(function () {
     });
 });
 
+// Headroom
+let header = document.querySelector('nav');
+let headroom = new Headroom(header,
+    {
+        tolerance: { down: 5, up: 15 }
+    });
+headroom.init();
+
 // Scroll to top button
 const backToTopButton = document.querySelector("#back-to-top-btn");
 

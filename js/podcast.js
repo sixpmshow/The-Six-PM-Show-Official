@@ -6,8 +6,15 @@ $(document).ready(function () {
     });
 });
 
+// Headroom
+let header = document.querySelector('nav');
+let headroom = new Headroom(header,
+    {
+        tolerance: { down: 5, up: 15 }
+    });
+headroom.init();
 
-
+// Carousel
 $(".carousel").owlCarousel({
     margin: 20,
     loop: true,
@@ -15,21 +22,21 @@ $(".carousel").owlCarousel({
     autoplayTimeout: 2000,
     autoplayHoverPause: true,
     responsive: {
-      0:{
-        items:1,
-        nav: false
-      },
-      600:{
-        items:2,
-        nav: false
-      },
-      1000:{
-        items:3,
-        nav: false
-      }
+        0: {
+            items: 1,
+            nav: false
+        },
+        600: {
+            items: 2,
+            nav: false
+        },
+        1000: {
+            items: 3,
+            nav: false
+        }
     }
-  });
-  
+});
+
 
 // Scroll to top button
 const backToTopButton = document.querySelector("#back-to-top-btn");
